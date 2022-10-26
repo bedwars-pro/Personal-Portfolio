@@ -1,0 +1,19 @@
+#app{
+    background-color:cyan;
+    text-align:center;
+}
+.line{
+    height:3px;
+    background-color:black;
+    width:70px;
+    margin:0px auto;
+}
+#game{
+    background-color:rgb(230, 0, 0);
+    margin:20px;
+    padding:20px;
+    text-align:center;
+}
+#Chatbot{
+    text-align:center;
+}
